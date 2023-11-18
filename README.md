@@ -1,4 +1,4 @@
-A simple MBTI exoert system program (might not be very accurate, though).
+A simple MBTI expert system program (might not be very accurate, though).
 
 I used Certainty Factor method for the calculation. Too long to describe it here, 
 so for a brief description, it calculate each weight of each types of personality (Extraversion, Introversion, etc)
